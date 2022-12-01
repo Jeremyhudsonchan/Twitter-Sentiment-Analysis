@@ -10,3 +10,6 @@ Original Datasets and Saved Models are at this link: https://drive.google.com/dr
 
 ### Description of the Dataset
 Original dataset consisted of 1.6 million tweets that were classified into either 0:"NEGATIVE" or 4:"POSITIVE". As some of the baselines we used could not handle such large amounts of tweets, we randomly sampled 25000 "NEGATIVE tweets and 25000 "POSITIVE" tweets from the dataset. The original dataset can be found at this kaggle link: https://www.kaggle.com/datasets/kazanova/sentiment140
+
+### Running Twitter API Notebook
+To run the twitter api notebook, you will need to have your own set of twitter api keys
