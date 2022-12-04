@@ -1,176 +1,606 @@
-,sentiment
-0,0
-1,4
-2,4
-3,0
-4,4
-5,4
-6,4
-7,4
-8,4
-9,4
-10,4
-11,4
-12,4
-13,4
-14,4
-15,4
-16,4
-17,4
-18,4
-19,4
-20,4
-21,4
-22,4
-23,0
-24,4
-25,4
-26,0
-27,0
-28,0
-29,4
-30,4
-31,4
-32,4
-33,4
-34,4
-35,0
-36,4
-37,4
-38,0
-39,4
-40,4
-41,4
-42,4
-43,4
-44,4
-45,4
-46,4
-47,4
-48,4
-49,4
-50,4
-51,4
-52,4
-53,4
-54,4
-55,4
-56,4
-57,4
-58,0
-59,4
-60,4
-61,0
-62,0
-63,0
-64,4
-65,4
-66,4
-67,4
-68,4
-69,4
-70,0
-71,4
-72,4
-73,0
-74,4
-75,4
-76,4
-77,4
-78,4
-79,4
-80,4
-81,4
-82,4
-83,4
-84,4
-85,4
-86,4
-87,4
-88,4
-89,4
-90,4
-91,4
-92,4
-93,0
-94,4
-95,4
-96,0
-97,0
-98,0
-99,4
-100,4
-101,4
-102,4
-103,4
-104,4
-105,0
-106,4
-107,4
-108,0
-109,4
-110,4
-111,4
-112,4
-113,4
-114,4
-115,4
-116,4
-117,4
-118,4
-119,4
-120,4
-121,4
-122,4
-123,4
-124,4
-125,4
-126,4
-127,4
-128,0
-129,4
-130,4
-131,0
-132,0
-133,0
-134,4
-135,4
-136,4
-137,4
-138,4
-139,4
-140,0
-141,4
-142,4
-143,0
-144,4
-145,4
-146,4
-147,4
-148,4
-149,4
-150,4
-151,4
-152,4
-153,4
-154,4
-155,4
-156,4
-157,4
-158,4
-159,4
-160,4
-161,4
-162,4
-163,0
-164,4
-165,4
-166,0
-167,0
-168,0
-169,4
-170,4
-171,4
-172,4
-173,4
-174,4
+,Unnamed: 0,Time,Tweet,User,Location,Retweets,Likes,Sentiment,sentiment
+0,0,2022-11-23 22:03:10+00:00,Senator Charles Schumer made a stop in Orchard Park this afternoon to announce a major effort to maximize the amount of federal assistance Western New York can receive in the wake of the record-breaking snowstorm. https://t.co/k4kC1RyRfL https://t.co/1aAREi7bOk,GregLarsonWDOE,"Fredonia, NY",0,0,0,0
+1,1,2022-11-23 20:46:06+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",ShadowB88750056,Southern California,10,0,4,4
+2,2,2022-11-23 19:50:17+00:00,"@JackPosobiec His best customers were the Obamas and the Clintons and other politicians. When Chuck Schumer rode his plane he used the pseudonym ‘Charles Shumi’.
+
+https://t.co/dmiZ7eVyog",RogelioBelmont,,1,0,4,4
+3,3,2022-11-23 19:30:44+00:00,"@JamesESisson1 @JDCocchiarella Hey Einstein ..... having ""MEMORY PROBLEMS""??
+We'll ""fix that:""
+1) Democrat Charles Schumer invoked the filibuster 327 TIMES in four years
+2) Democrat Schumer told ALL Dems in the Senate, NOT to vote ""yea"" for ANY legislation not 100% sponsored by Democrats
+*That was PURE ""BS""!",iroc158,,0,1,0,0
+4,4,2022-11-23 19:27:35+00:00,@ProfessorKraz @kylegriffin1 Charles Schumer again? That was funny.,Stephen81770019,Somewhere in Massachusetts ,0,0,4,4
+5,5,2022-11-23 18:27:46+00:00,"RT @nbablib: Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), R…",CrotonLibrary,"Croton-on-Hudson, NY",1,0,4,4
+6,6,2022-11-23 17:20:59+00:00,"Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), Robin Roberts(1960) and Miley Cyrus(1992).",nbablib,North Babylon,1,2,4,4
+7,7,2022-11-23 17:08:24+00:00,"Schumer, Then and Now – Townhall https://t.co/tc8xNrOO6G",QuorumCall,USA,0,0,4,4
+8,8,2022-11-23 16:32:16+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",wyvettelvr,"Wyoming, USA",10,0,4,4
+9,9,2022-11-23 16:02:30+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Snap1967Ginger,USA,10,0,4,4
+10,10,2022-11-23 15:21:07+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Dman5413,,10,0,4,4
+11,11,2022-11-23 15:18:33+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",maritza82283179,,10,0,4,4
+12,12,2022-11-23 15:04:15+00:00,"@JDCocchiarella I have questions too: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+13,13,2022-11-23 15:00:56+00:00,"@BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",10,14,4,4
+14,14,2022-11-23 15:00:27+00:00,"@SpeakerPelosi Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,1,4,4
+15,15,2022-11-23 14:56:39+00:00,"@nathaliejacoby1 Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+16,16,2022-11-23 14:43:26+00:00,Sen. Schumer: Relief in sight for homeowners taxed by IRS for septic improvement grant https://t.co/kMQ5RCPCsG,QuorumCall,USA,0,0,4,4
+17,17,2022-11-23 13:03:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/UvAxkOoINz,ButterflyLachoi,"San Jose, CA",0,0,4,4
+18,18,2022-11-23 13:00:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/HnQXjVjSW9,ButterflyLachoi,"San Jose, CA",0,0,4,4
+19,19,2022-11-23 12:38:11+00:00,Charles Schumer is our Vernon Dursley #comeymemo,HParallels,Hogwarts,0,0,4,4
+20,20,2022-11-23 12:19:19+00:00,SCHUMER REVEALS: ISSUE OF 'DOUBLE TAXING' FOR SUFFOLK SEPTIC GRANTS … https://t.co/cKy8rq0dvX,QuorumCall,USA,0,0,4,4
+21,21,2022-11-23 11:48:25+00:00,"CAL THOMAS: Charles Schumer, then and now https://t.co/hkqCGGwMPU https://t.co/6DyrtnqWPV",TheClaytonNews,"Jonesboro, Ga.",0,0,4,4
+22,22,2022-11-23 09:46:51+00:00,"Cal Thomas: Schumer, then and now | | https://t.co/7vJToX5AYA https://t.co/VfLQPDih4m",QuorumCall,USA,0,0,4,4
+23,23,2022-11-23 07:10:04+00:00,"@Tampax nooo don’t sexualize tampons!! Just as nasty as when Charles Windsor did it. We’ve been trying to get away from that shit for years, gals are still being prevented from using them because it’ll “take their virginity”🤢. I do like ur Amy Schumer ads but this is ICKY",eacarriere,"Northwestern Ontario, Canada",0,0,0,0
+24,24,2022-11-23 07:07:54+00:00,"CAL THOMAS: Charles Schumer, then and now | News | https://t.co/NFQQYwjBQ1 https://t.co/mNWUim2Dwj",QuorumCall,USA,0,0,4,4
+25,25,2022-11-23 04:38:19+00:00,"Celebrating Dems Senate victory, Schumer praises New Yorkers' affinity for Yiddish https://t.co/P8FcZjdluV",QuorumCall,USA,0,0,4,4
+26,26,2022-11-23 04:07:23+00:00,Charles Schumer is our Bloody Baron #comeymemo,HParallels,Hogwarts,0,0,0,0
+27,27,2022-11-22 22:41:36+00:00,"@greg_price11 Charles Schumer is muff-cabbage. Another over-the-hill, mentally ill, career politician whom, (you are right), has done nothing but contribute to the blatant accelerated decline of this country. 
+
+He/they should all be removed by any means necessary.",cloudfirecap,"Pittsburgh, PA",0,0,0,0
+28,28,2022-11-22 20:09:47+00:00,"RT @JuergenAusNRW: @NMBewitched „Fire Risa Weinstock” the dog killer
+RISA WEINSTOCK - DIRECTOR OF ACC OF NEW YORK NEEDS TO RESIGN NOW!!!
+
+#…",Wynjym,Ontario,1,0,0,0
+29,29,2022-11-22 19:14:20+00:00,Chuck Schumer: Then and now | Cal Thomas – News-Herald https://t.co/GYiL3hwQVw,QuorumCall,USA,0,0,4,4
+30,30,2022-11-22 16:59:18+00:00,"Schumer, then and now | Op-Ed Columns | https://t.co/NsJiKPoL2L https://t.co/wfzpT30Ir8",QuorumCall,USA,0,0,4,4
+31,31,2022-11-22 16:08:06+00:00,"If an awards show were created to honor Washington politicians for the most outlandish, hypocritical and contradictory positions, Sen. Charles Schumer (D-NY) would be among the top contenders. https://t.co/1xK2RCpqxc",washtimesherald,"Washington, IN",0,0,4,4
+32,32,2022-11-22 14:42:25+00:00,"Flip-flop Schumer on illegal immigration, then and now – Washington Times https://t.co/5u7pZoZP6f",QuorumCall,USA,0,0,4,4
+33,33,2022-11-22 13:24:37+00:00,"RT @TornCurtain1991: I invite you to read my updated blog:
+• Holodomor Remembrance: Never Forget; Never Forgive – UPDATES with comments by…",HolodomorAware,United States,6,0,4,4
+34,34,2022-11-22 12:18:24+00:00,"Irish unity has ""full support"" of US Senate Majority Leader Chuck Schumer – IrishCentral https://t.co/YkTLjjF8jV",QuorumCall,USA,0,0,4,4
+35,0,2022-11-23 22:03:10+00:00,Senator Charles Schumer made a stop in Orchard Park this afternoon to announce a major effort to maximize the amount of federal assistance Western New York can receive in the wake of the record-breaking snowstorm. https://t.co/k4kC1RyRfL https://t.co/1aAREi7bOk,GregLarsonWDOE,"Fredonia, NY",0,0,0,0
+36,1,2022-11-23 20:46:06+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",ShadowB88750056,Southern California,10,0,4,4
+37,2,2022-11-23 19:50:17+00:00,"@JackPosobiec His best customers were the Obamas and the Clintons and other politicians. When Chuck Schumer rode his plane he used the pseudonym ‘Charles Shumi’.
+
+https://t.co/dmiZ7eVyog",RogelioBelmont,,1,0,4,4
+38,3,2022-11-23 19:30:44+00:00,"@JamesESisson1 @JDCocchiarella Hey Einstein ..... having ""MEMORY PROBLEMS""??
+We'll ""fix that:""
+1) Democrat Charles Schumer invoked the filibuster 327 TIMES in four years
+2) Democrat Schumer told ALL Dems in the Senate, NOT to vote ""yea"" for ANY legislation not 100% sponsored by Democrats
+*That was PURE ""BS""!",iroc158,,0,1,0,0
+39,4,2022-11-23 19:27:35+00:00,@ProfessorKraz @kylegriffin1 Charles Schumer again? That was funny.,Stephen81770019,Somewhere in Massachusetts ,0,0,4,4
+40,5,2022-11-23 18:27:46+00:00,"RT @nbablib: Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), R…",CrotonLibrary,"Croton-on-Hudson, NY",1,0,4,4
+41,6,2022-11-23 17:20:59+00:00,"Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), Robin Roberts(1960) and Miley Cyrus(1992).",nbablib,North Babylon,1,2,4,4
+42,7,2022-11-23 17:08:24+00:00,"Schumer, Then and Now – Townhall https://t.co/tc8xNrOO6G",QuorumCall,USA,0,0,4,4
+43,8,2022-11-23 16:32:16+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",wyvettelvr,"Wyoming, USA",10,0,4,4
+44,9,2022-11-23 16:02:30+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Snap1967Ginger,USA,10,0,4,4
+45,10,2022-11-23 15:21:07+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Dman5413,,10,0,4,4
+46,11,2022-11-23 15:18:33+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",maritza82283179,,10,0,4,4
+47,12,2022-11-23 15:04:15+00:00,"@JDCocchiarella I have questions too: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+48,13,2022-11-23 15:00:56+00:00,"@BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",10,14,4,4
+49,14,2022-11-23 15:00:27+00:00,"@SpeakerPelosi Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,1,4,4
+50,15,2022-11-23 14:56:39+00:00,"@nathaliejacoby1 Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+51,16,2022-11-23 14:43:26+00:00,Sen. Schumer: Relief in sight for homeowners taxed by IRS for septic improvement grant https://t.co/kMQ5RCPCsG,QuorumCall,USA,0,0,4,4
+52,17,2022-11-23 13:03:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/UvAxkOoINz,ButterflyLachoi,"San Jose, CA",0,0,4,4
+53,18,2022-11-23 13:00:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/HnQXjVjSW9,ButterflyLachoi,"San Jose, CA",0,0,4,4
+54,19,2022-11-23 12:38:11+00:00,Charles Schumer is our Vernon Dursley #comeymemo,HParallels,Hogwarts,0,0,4,4
+55,20,2022-11-23 12:19:19+00:00,SCHUMER REVEALS: ISSUE OF 'DOUBLE TAXING' FOR SUFFOLK SEPTIC GRANTS … https://t.co/cKy8rq0dvX,QuorumCall,USA,0,0,4,4
+56,21,2022-11-23 11:48:25+00:00,"CAL THOMAS: Charles Schumer, then and now https://t.co/hkqCGGwMPU https://t.co/6DyrtnqWPV",TheClaytonNews,"Jonesboro, Ga.",0,0,4,4
+57,22,2022-11-23 09:46:51+00:00,"Cal Thomas: Schumer, then and now | | https://t.co/7vJToX5AYA https://t.co/VfLQPDih4m",QuorumCall,USA,0,0,4,4
+58,23,2022-11-23 07:10:04+00:00,"@Tampax nooo don’t sexualize tampons!! Just as nasty as when Charles Windsor did it. We’ve been trying to get away from that shit for years, gals are still being prevented from using them because it’ll “take their virginity”🤢. I do like ur Amy Schumer ads but this is ICKY",eacarriere,"Northwestern Ontario, Canada",0,0,0,0
+59,24,2022-11-23 07:07:54+00:00,"CAL THOMAS: Charles Schumer, then and now | News | https://t.co/NFQQYwjBQ1 https://t.co/mNWUim2Dwj",QuorumCall,USA,0,0,4,4
+60,25,2022-11-23 04:38:19+00:00,"Celebrating Dems Senate victory, Schumer praises New Yorkers' affinity for Yiddish https://t.co/P8FcZjdluV",QuorumCall,USA,0,0,4,4
+61,26,2022-11-23 04:07:23+00:00,Charles Schumer is our Bloody Baron #comeymemo,HParallels,Hogwarts,0,0,0,0
+62,27,2022-11-22 22:41:36+00:00,"@greg_price11 Charles Schumer is muff-cabbage. Another over-the-hill, mentally ill, career politician whom, (you are right), has done nothing but contribute to the blatant accelerated decline of this country. 
+
+He/they should all be removed by any means necessary.",cloudfirecap,"Pittsburgh, PA",0,0,0,0
+63,28,2022-11-22 20:09:47+00:00,"RT @JuergenAusNRW: @NMBewitched „Fire Risa Weinstock” the dog killer
+RISA WEINSTOCK - DIRECTOR OF ACC OF NEW YORK NEEDS TO RESIGN NOW!!!
+
+#…",Wynjym,Ontario,1,0,0,0
+64,29,2022-11-22 19:14:20+00:00,Chuck Schumer: Then and now | Cal Thomas – News-Herald https://t.co/GYiL3hwQVw,QuorumCall,USA,0,0,4,4
+65,30,2022-11-22 16:59:18+00:00,"Schumer, then and now | Op-Ed Columns | https://t.co/NsJiKPoL2L https://t.co/wfzpT30Ir8",QuorumCall,USA,0,0,4,4
+66,31,2022-11-22 16:08:06+00:00,"If an awards show were created to honor Washington politicians for the most outlandish, hypocritical and contradictory positions, Sen. Charles Schumer (D-NY) would be among the top contenders. https://t.co/1xK2RCpqxc",washtimesherald,"Washington, IN",0,0,4,4
+67,32,2022-11-22 14:42:25+00:00,"Flip-flop Schumer on illegal immigration, then and now – Washington Times https://t.co/5u7pZoZP6f",QuorumCall,USA,0,0,4,4
+68,33,2022-11-22 13:24:37+00:00,"RT @TornCurtain1991: I invite you to read my updated blog:
+• Holodomor Remembrance: Never Forget; Never Forgive – UPDATES with comments by…",HolodomorAware,United States,6,0,4,4
+69,34,2022-11-22 12:18:24+00:00,"Irish unity has ""full support"" of US Senate Majority Leader Chuck Schumer – IrishCentral https://t.co/YkTLjjF8jV",QuorumCall,USA,0,0,4,4
+70,0,2022-11-23 22:03:10+00:00,Senator Charles Schumer made a stop in Orchard Park this afternoon to announce a major effort to maximize the amount of federal assistance Western New York can receive in the wake of the record-breaking snowstorm. https://t.co/k4kC1RyRfL https://t.co/1aAREi7bOk,GregLarsonWDOE,"Fredonia, NY",0,0,0,0
+71,1,2022-11-23 20:46:06+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",ShadowB88750056,Southern California,10,0,4,4
+72,2,2022-11-23 19:50:17+00:00,"@JackPosobiec His best customers were the Obamas and the Clintons and other politicians. When Chuck Schumer rode his plane he used the pseudonym ‘Charles Shumi’.
+
+https://t.co/dmiZ7eVyog",RogelioBelmont,,1,0,4,4
+73,3,2022-11-23 19:30:44+00:00,"@JamesESisson1 @JDCocchiarella Hey Einstein ..... having ""MEMORY PROBLEMS""??
+We'll ""fix that:""
+1) Democrat Charles Schumer invoked the filibuster 327 TIMES in four years
+2) Democrat Schumer told ALL Dems in the Senate, NOT to vote ""yea"" for ANY legislation not 100% sponsored by Democrats
+*That was PURE ""BS""!",iroc158,,0,1,0,0
+74,4,2022-11-23 19:27:35+00:00,@ProfessorKraz @kylegriffin1 Charles Schumer again? That was funny.,Stephen81770019,Somewhere in Massachusetts ,0,0,4,4
+75,5,2022-11-23 18:27:46+00:00,"RT @nbablib: Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), R…",CrotonLibrary,"Croton-on-Hudson, NY",1,0,4,4
+76,6,2022-11-23 17:20:59+00:00,"Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), Robin Roberts(1960) and Miley Cyrus(1992).",nbablib,North Babylon,1,2,4,4
+77,7,2022-11-23 17:08:24+00:00,"Schumer, Then and Now – Townhall https://t.co/tc8xNrOO6G",QuorumCall,USA,0,0,4,4
+78,8,2022-11-23 16:32:16+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",wyvettelvr,"Wyoming, USA",10,0,4,4
+79,9,2022-11-23 16:02:30+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Snap1967Ginger,USA,10,0,4,4
+80,10,2022-11-23 15:21:07+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Dman5413,,10,0,4,4
+81,11,2022-11-23 15:18:33+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",maritza82283179,,10,0,4,4
+82,12,2022-11-23 15:04:15+00:00,"@JDCocchiarella I have questions too: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+83,13,2022-11-23 15:00:56+00:00,"@BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",10,14,4,4
+84,14,2022-11-23 15:00:27+00:00,"@SpeakerPelosi Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,1,4,4
+85,15,2022-11-23 14:56:39+00:00,"@nathaliejacoby1 Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+86,16,2022-11-23 14:43:26+00:00,Sen. Schumer: Relief in sight for homeowners taxed by IRS for septic improvement grant https://t.co/kMQ5RCPCsG,QuorumCall,USA,0,0,4,4
+87,17,2022-11-23 13:03:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/UvAxkOoINz,ButterflyLachoi,"San Jose, CA",0,0,4,4
+88,18,2022-11-23 13:00:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/HnQXjVjSW9,ButterflyLachoi,"San Jose, CA",0,0,4,4
+89,19,2022-11-23 12:38:11+00:00,Charles Schumer is our Vernon Dursley #comeymemo,HParallels,Hogwarts,0,0,4,4
+90,20,2022-11-23 12:19:19+00:00,SCHUMER REVEALS: ISSUE OF 'DOUBLE TAXING' FOR SUFFOLK SEPTIC GRANTS … https://t.co/cKy8rq0dvX,QuorumCall,USA,0,0,4,4
+91,21,2022-11-23 11:48:25+00:00,"CAL THOMAS: Charles Schumer, then and now https://t.co/hkqCGGwMPU https://t.co/6DyrtnqWPV",TheClaytonNews,"Jonesboro, Ga.",0,0,4,4
+92,22,2022-11-23 09:46:51+00:00,"Cal Thomas: Schumer, then and now | | https://t.co/7vJToX5AYA https://t.co/VfLQPDih4m",QuorumCall,USA,0,0,4,4
+93,23,2022-11-23 07:10:04+00:00,"@Tampax nooo don’t sexualize tampons!! Just as nasty as when Charles Windsor did it. We’ve been trying to get away from that shit for years, gals are still being prevented from using them because it’ll “take their virginity”🤢. I do like ur Amy Schumer ads but this is ICKY",eacarriere,"Northwestern Ontario, Canada",0,0,0,0
+94,24,2022-11-23 07:07:54+00:00,"CAL THOMAS: Charles Schumer, then and now | News | https://t.co/NFQQYwjBQ1 https://t.co/mNWUim2Dwj",QuorumCall,USA,0,0,4,4
+95,25,2022-11-23 04:38:19+00:00,"Celebrating Dems Senate victory, Schumer praises New Yorkers' affinity for Yiddish https://t.co/P8FcZjdluV",QuorumCall,USA,0,0,4,4
+96,26,2022-11-23 04:07:23+00:00,Charles Schumer is our Bloody Baron #comeymemo,HParallels,Hogwarts,0,0,0,0
+97,27,2022-11-22 22:41:36+00:00,"@greg_price11 Charles Schumer is muff-cabbage. Another over-the-hill, mentally ill, career politician whom, (you are right), has done nothing but contribute to the blatant accelerated decline of this country. 
+
+He/they should all be removed by any means necessary.",cloudfirecap,"Pittsburgh, PA",0,0,0,0
+98,28,2022-11-22 20:09:47+00:00,"RT @JuergenAusNRW: @NMBewitched „Fire Risa Weinstock” the dog killer
+RISA WEINSTOCK - DIRECTOR OF ACC OF NEW YORK NEEDS TO RESIGN NOW!!!
+
+#…",Wynjym,Ontario,1,0,0,0
+99,29,2022-11-22 19:14:20+00:00,Chuck Schumer: Then and now | Cal Thomas – News-Herald https://t.co/GYiL3hwQVw,QuorumCall,USA,0,0,4,4
+100,30,2022-11-22 16:59:18+00:00,"Schumer, then and now | Op-Ed Columns | https://t.co/NsJiKPoL2L https://t.co/wfzpT30Ir8",QuorumCall,USA,0,0,4,4
+101,31,2022-11-22 16:08:06+00:00,"If an awards show were created to honor Washington politicians for the most outlandish, hypocritical and contradictory positions, Sen. Charles Schumer (D-NY) would be among the top contenders. https://t.co/1xK2RCpqxc",washtimesherald,"Washington, IN",0,0,4,4
+102,32,2022-11-22 14:42:25+00:00,"Flip-flop Schumer on illegal immigration, then and now – Washington Times https://t.co/5u7pZoZP6f",QuorumCall,USA,0,0,4,4
+103,33,2022-11-22 13:24:37+00:00,"RT @TornCurtain1991: I invite you to read my updated blog:
+• Holodomor Remembrance: Never Forget; Never Forgive – UPDATES with comments by…",HolodomorAware,United States,6,0,4,4
+104,34,2022-11-22 12:18:24+00:00,"Irish unity has ""full support"" of US Senate Majority Leader Chuck Schumer – IrishCentral https://t.co/YkTLjjF8jV",QuorumCall,USA,0,0,4,4
+105,0,2022-11-23 22:03:10+00:00,Senator Charles Schumer made a stop in Orchard Park this afternoon to announce a major effort to maximize the amount of federal assistance Western New York can receive in the wake of the record-breaking snowstorm. https://t.co/k4kC1RyRfL https://t.co/1aAREi7bOk,GregLarsonWDOE,"Fredonia, NY",0,0,0,0
+106,1,2022-11-23 20:46:06+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",ShadowB88750056,Southern California,10,0,4,4
+107,2,2022-11-23 19:50:17+00:00,"@JackPosobiec His best customers were the Obamas and the Clintons and other politicians. When Chuck Schumer rode his plane he used the pseudonym ‘Charles Shumi’.
+
+https://t.co/dmiZ7eVyog",RogelioBelmont,,1,0,4,4
+108,3,2022-11-23 19:30:44+00:00,"@JamesESisson1 @JDCocchiarella Hey Einstein ..... having ""MEMORY PROBLEMS""??
+We'll ""fix that:""
+1) Democrat Charles Schumer invoked the filibuster 327 TIMES in four years
+2) Democrat Schumer told ALL Dems in the Senate, NOT to vote ""yea"" for ANY legislation not 100% sponsored by Democrats
+*That was PURE ""BS""!",iroc158,,0,1,0,0
+109,4,2022-11-23 19:27:35+00:00,@ProfessorKraz @kylegriffin1 Charles Schumer again? That was funny.,Stephen81770019,Somewhere in Massachusetts ,0,0,4,4
+110,5,2022-11-23 18:27:46+00:00,"RT @nbablib: Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), R…",CrotonLibrary,"Croton-on-Hudson, NY",1,0,4,4
+111,6,2022-11-23 17:20:59+00:00,"Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), Robin Roberts(1960) and Miley Cyrus(1992).",nbablib,North Babylon,1,2,4,4
+112,7,2022-11-23 17:08:24+00:00,"Schumer, Then and Now – Townhall https://t.co/tc8xNrOO6G",QuorumCall,USA,0,0,4,4
+113,8,2022-11-23 16:32:16+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",wyvettelvr,"Wyoming, USA",10,0,4,4
+114,9,2022-11-23 16:02:30+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Snap1967Ginger,USA,10,0,4,4
+115,10,2022-11-23 15:21:07+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Dman5413,,10,0,4,4
+116,11,2022-11-23 15:18:33+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",maritza82283179,,10,0,4,4
+117,12,2022-11-23 15:04:15+00:00,"@JDCocchiarella I have questions too: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+118,13,2022-11-23 15:00:56+00:00,"@BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",10,14,4,4
+119,14,2022-11-23 15:00:27+00:00,"@SpeakerPelosi Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,1,4,4
+120,15,2022-11-23 14:56:39+00:00,"@nathaliejacoby1 Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+121,16,2022-11-23 14:43:26+00:00,Sen. Schumer: Relief in sight for homeowners taxed by IRS for septic improvement grant https://t.co/kMQ5RCPCsG,QuorumCall,USA,0,0,4,4
+122,17,2022-11-23 13:03:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/UvAxkOoINz,ButterflyLachoi,"San Jose, CA",0,0,4,4
+123,18,2022-11-23 13:00:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/HnQXjVjSW9,ButterflyLachoi,"San Jose, CA",0,0,4,4
+124,19,2022-11-23 12:38:11+00:00,Charles Schumer is our Vernon Dursley #comeymemo,HParallels,Hogwarts,0,0,4,4
+125,20,2022-11-23 12:19:19+00:00,SCHUMER REVEALS: ISSUE OF 'DOUBLE TAXING' FOR SUFFOLK SEPTIC GRANTS … https://t.co/cKy8rq0dvX,QuorumCall,USA,0,0,4,4
+126,21,2022-11-23 11:48:25+00:00,"CAL THOMAS: Charles Schumer, then and now https://t.co/hkqCGGwMPU https://t.co/6DyrtnqWPV",TheClaytonNews,"Jonesboro, Ga.",0,0,4,4
+127,22,2022-11-23 09:46:51+00:00,"Cal Thomas: Schumer, then and now | | https://t.co/7vJToX5AYA https://t.co/VfLQPDih4m",QuorumCall,USA,0,0,4,4
+128,23,2022-11-23 07:10:04+00:00,"@Tampax nooo don’t sexualize tampons!! Just as nasty as when Charles Windsor did it. We’ve been trying to get away from that shit for years, gals are still being prevented from using them because it’ll “take their virginity”🤢. I do like ur Amy Schumer ads but this is ICKY",eacarriere,"Northwestern Ontario, Canada",0,0,0,0
+129,24,2022-11-23 07:07:54+00:00,"CAL THOMAS: Charles Schumer, then and now | News | https://t.co/NFQQYwjBQ1 https://t.co/mNWUim2Dwj",QuorumCall,USA,0,0,4,4
+130,25,2022-11-23 04:38:19+00:00,"Celebrating Dems Senate victory, Schumer praises New Yorkers' affinity for Yiddish https://t.co/P8FcZjdluV",QuorumCall,USA,0,0,4,4
+131,26,2022-11-23 04:07:23+00:00,Charles Schumer is our Bloody Baron #comeymemo,HParallels,Hogwarts,0,0,0,0
+132,27,2022-11-22 22:41:36+00:00,"@greg_price11 Charles Schumer is muff-cabbage. Another over-the-hill, mentally ill, career politician whom, (you are right), has done nothing but contribute to the blatant accelerated decline of this country. 
+
+He/they should all be removed by any means necessary.",cloudfirecap,"Pittsburgh, PA",0,0,0,0
+133,28,2022-11-22 20:09:47+00:00,"RT @JuergenAusNRW: @NMBewitched „Fire Risa Weinstock” the dog killer
+RISA WEINSTOCK - DIRECTOR OF ACC OF NEW YORK NEEDS TO RESIGN NOW!!!
+
+#…",Wynjym,Ontario,1,0,0,0
+134,29,2022-11-22 19:14:20+00:00,Chuck Schumer: Then and now | Cal Thomas – News-Herald https://t.co/GYiL3hwQVw,QuorumCall,USA,0,0,4,4
+135,30,2022-11-22 16:59:18+00:00,"Schumer, then and now | Op-Ed Columns | https://t.co/NsJiKPoL2L https://t.co/wfzpT30Ir8",QuorumCall,USA,0,0,4,4
+136,31,2022-11-22 16:08:06+00:00,"If an awards show were created to honor Washington politicians for the most outlandish, hypocritical and contradictory positions, Sen. Charles Schumer (D-NY) would be among the top contenders. https://t.co/1xK2RCpqxc",washtimesherald,"Washington, IN",0,0,4,4
+137,32,2022-11-22 14:42:25+00:00,"Flip-flop Schumer on illegal immigration, then and now – Washington Times https://t.co/5u7pZoZP6f",QuorumCall,USA,0,0,4,4
+138,33,2022-11-22 13:24:37+00:00,"RT @TornCurtain1991: I invite you to read my updated blog:
+• Holodomor Remembrance: Never Forget; Never Forgive – UPDATES with comments by…",HolodomorAware,United States,6,0,4,4
+139,34,2022-11-22 12:18:24+00:00,"Irish unity has ""full support"" of US Senate Majority Leader Chuck Schumer – IrishCentral https://t.co/YkTLjjF8jV",QuorumCall,USA,0,0,4,4
+140,0,2022-11-23 22:03:10+00:00,Senator Charles Schumer made a stop in Orchard Park this afternoon to announce a major effort to maximize the amount of federal assistance Western New York can receive in the wake of the record-breaking snowstorm. https://t.co/k4kC1RyRfL https://t.co/1aAREi7bOk,GregLarsonWDOE,"Fredonia, NY",0,0,0,0
+141,1,2022-11-23 20:46:06+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",ShadowB88750056,Southern California,10,0,4,4
+142,2,2022-11-23 19:50:17+00:00,"@JackPosobiec His best customers were the Obamas and the Clintons and other politicians. When Chuck Schumer rode his plane he used the pseudonym ‘Charles Shumi’.
+
+https://t.co/dmiZ7eVyog",RogelioBelmont,,1,0,4,4
+143,3,2022-11-23 19:30:44+00:00,"@JamesESisson1 @JDCocchiarella Hey Einstein ..... having ""MEMORY PROBLEMS""??
+We'll ""fix that:""
+1) Democrat Charles Schumer invoked the filibuster 327 TIMES in four years
+2) Democrat Schumer told ALL Dems in the Senate, NOT to vote ""yea"" for ANY legislation not 100% sponsored by Democrats
+*That was PURE ""BS""!",iroc158,,0,1,0,0
+144,4,2022-11-23 19:27:35+00:00,@ProfessorKraz @kylegriffin1 Charles Schumer again? That was funny.,Stephen81770019,Somewhere in Massachusetts ,0,0,4,4
+145,5,2022-11-23 18:27:46+00:00,"RT @nbablib: Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), R…",CrotonLibrary,"Croton-on-Hudson, NY",1,0,4,4
+146,6,2022-11-23 17:20:59+00:00,"Famous Birthdays: William H. Bonney(1859), Boris Karloff(1877), Harpo Marx(1888), Charles Schumer(1950), Steve Harvey(1956), Robin Roberts(1960) and Miley Cyrus(1992).",nbablib,North Babylon,1,2,4,4
+147,7,2022-11-23 17:08:24+00:00,"Schumer, Then and Now – Townhall https://t.co/tc8xNrOO6G",QuorumCall,USA,0,0,4,4
+148,8,2022-11-23 16:32:16+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",wyvettelvr,"Wyoming, USA",10,0,4,4
+149,9,2022-11-23 16:02:30+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Snap1967Ginger,USA,10,0,4,4
+150,10,2022-11-23 15:21:07+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",Dman5413,,10,0,4,4
+151,11,2022-11-23 15:18:33+00:00,"RT @528i: @BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+A…",maritza82283179,,10,0,4,4
+152,12,2022-11-23 15:04:15+00:00,"@JDCocchiarella I have questions too: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+153,13,2022-11-23 15:00:56+00:00,"@BamaJacx @ToscaAusten Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",10,14,4,4
+154,14,2022-11-23 15:00:27+00:00,"@SpeakerPelosi Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,1,4,4
+155,15,2022-11-23 14:56:39+00:00,"@nathaliejacoby1 Let's see these tax returns first: 
+Joe Biden 
+Hunter Biden 
+Nancy Pelosi 
+Adam Schiff 
+Charles Schumer 
+Al Sharpton 
+Maxine Waters 
+Bil Clinton 
+Hillary Clinton 
+Chelsea Clinton 
+Just to name a few.",528i,"Houston,Texas",0,0,4,4
+156,16,2022-11-23 14:43:26+00:00,Sen. Schumer: Relief in sight for homeowners taxed by IRS for septic improvement grant https://t.co/kMQ5RCPCsG,QuorumCall,USA,0,0,4,4
+157,17,2022-11-23 13:03:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/UvAxkOoINz,ButterflyLachoi,"San Jose, CA",0,0,4,4
+158,18,2022-11-23 13:00:31+00:00,Get out the birthday balloons! Sen. Charles Schumer (D) from NY was born today! https://t.co/HnQXjVjSW9,ButterflyLachoi,"San Jose, CA",0,0,4,4
+159,19,2022-11-23 12:38:11+00:00,Charles Schumer is our Vernon Dursley #comeymemo,HParallels,Hogwarts,0,0,4,4
+160,20,2022-11-23 12:19:19+00:00,SCHUMER REVEALS: ISSUE OF 'DOUBLE TAXING' FOR SUFFOLK SEPTIC GRANTS … https://t.co/cKy8rq0dvX,QuorumCall,USA,0,0,4,4
+161,21,2022-11-23 11:48:25+00:00,"CAL THOMAS: Charles Schumer, then and now https://t.co/hkqCGGwMPU https://t.co/6DyrtnqWPV",TheClaytonNews,"Jonesboro, Ga.",0,0,4,4
+162,22,2022-11-23 09:46:51+00:00,"Cal Thomas: Schumer, then and now | | https://t.co/7vJToX5AYA https://t.co/VfLQPDih4m",QuorumCall,USA,0,0,4,4
+163,23,2022-11-23 07:10:04+00:00,"@Tampax nooo don’t sexualize tampons!! Just as nasty as when Charles Windsor did it. We’ve been trying to get away from that shit for years, gals are still being prevented from using them because it’ll “take their virginity”🤢. I do like ur Amy Schumer ads but this is ICKY",eacarriere,"Northwestern Ontario, Canada",0,0,0,0
+164,24,2022-11-23 07:07:54+00:00,"CAL THOMAS: Charles Schumer, then and now | News | https://t.co/NFQQYwjBQ1 https://t.co/mNWUim2Dwj",QuorumCall,USA,0,0,4,4
+165,25,2022-11-23 04:38:19+00:00,"Celebrating Dems Senate victory, Schumer praises New Yorkers' affinity for Yiddish https://t.co/P8FcZjdluV",QuorumCall,USA,0,0,4,4
+166,26,2022-11-23 04:07:23+00:00,Charles Schumer is our Bloody Baron #comeymemo,HParallels,Hogwarts,0,0,0,0
+167,27,2022-11-22 22:41:36+00:00,"@greg_price11 Charles Schumer is muff-cabbage. Another over-the-hill, mentally ill, career politician whom, (you are right), has done nothing but contribute to the blatant accelerated decline of this country. 
+
+He/they should all be removed by any means necessary.",cloudfirecap,"Pittsburgh, PA",0,0,0,0
+168,28,2022-11-22 20:09:47+00:00,"RT @JuergenAusNRW: @NMBewitched „Fire Risa Weinstock” the dog killer
+RISA WEINSTOCK - DIRECTOR OF ACC OF NEW YORK NEEDS TO RESIGN NOW!!!
+
+#…",Wynjym,Ontario,1,0,0,0
+169,29,2022-11-22 19:14:20+00:00,Chuck Schumer: Then and now | Cal Thomas – News-Herald https://t.co/GYiL3hwQVw,QuorumCall,USA,0,0,4,4
+170,30,2022-11-22 16:59:18+00:00,"Schumer, then and now | Op-Ed Columns | https://t.co/NsJiKPoL2L https://t.co/wfzpT30Ir8",QuorumCall,USA,0,0,4,4
+171,31,2022-11-22 16:08:06+00:00,"If an awards show were created to honor Washington politicians for the most outlandish, hypocritical and contradictory positions, Sen. Charles Schumer (D-NY) would be among the top contenders. https://t.co/1xK2RCpqxc",washtimesherald,"Washington, IN",0,0,4,4
+172,32,2022-11-22 14:42:25+00:00,"Flip-flop Schumer on illegal immigration, then and now – Washington Times https://t.co/5u7pZoZP6f",QuorumCall,USA,0,0,4,4
+173,33,2022-11-22 13:24:37+00:00,"RT @TornCurtain1991: I invite you to read my updated blog:
+• Holodomor Remembrance: Never Forget; Never Forgive – UPDATES with comments by…",HolodomorAware,United States,6,0,4,4
+174,34,2022-11-22 12:18:24+00:00,"Irish unity has ""full support"" of US Senate Majority Leader Chuck Schumer – IrishCentral https://t.co/YkTLjjF8jV",QuorumCall,USA,0,0,4,4

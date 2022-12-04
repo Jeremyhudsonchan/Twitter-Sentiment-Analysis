@@ -1,501 +1,3411 @@
-,sentiment
-0,4
-1,4
-2,4
-3,4
-4,4
-5,4
-6,4
-7,4
-8,4
-9,4
-10,4
-11,4
-12,4
-13,4
-14,4
-15,4
-16,4
-17,4
-18,4
-19,4
-20,4
-21,4
-22,4
-23,4
-24,4
-25,4
-26,4
-27,4
-28,4
-29,4
-30,4
-31,4
-32,4
-33,4
-34,4
-35,4
-36,4
-37,4
-38,4
-39,4
-40,4
-41,4
-42,4
-43,4
-44,4
-45,4
-46,4
-47,4
-48,4
-49,4
-50,4
-51,4
-52,4
-53,4
-54,4
-55,4
-56,4
-57,4
-58,4
-59,4
-60,4
-61,4
-62,4
-63,4
-64,4
-65,4
-66,4
-67,4
-68,4
-69,4
-70,4
-71,4
-72,4
-73,4
-74,4
-75,4
-76,4
-77,4
-78,4
-79,4
-80,4
-81,4
-82,4
-83,4
-84,4
-85,4
-86,4
-87,4
-88,4
-89,4
-90,4
-91,4
-92,4
-93,4
-94,4
-95,4
-96,4
-97,4
-98,4
-99,4
-100,4
-101,4
-102,4
-103,4
-104,4
-105,4
-106,4
-107,4
-108,4
-109,4
-110,4
-111,4
-112,4
-113,4
-114,4
-115,4
-116,4
-117,4
-118,4
-119,4
-120,4
-121,4
-122,4
-123,4
-124,4
-125,4
-126,4
-127,4
-128,4
-129,4
-130,4
-131,4
-132,4
-133,4
-134,4
-135,4
-136,4
-137,4
-138,4
-139,4
-140,4
-141,4
-142,4
-143,4
-144,4
-145,4
-146,4
-147,4
-148,4
-149,4
-150,4
-151,4
-152,4
-153,4
-154,4
-155,4
-156,4
-157,4
-158,4
-159,4
-160,4
-161,4
-162,4
-163,4
-164,4
-165,4
-166,4
-167,4
-168,4
-169,4
-170,4
-171,4
-172,4
-173,4
-174,4
-175,4
-176,4
-177,4
-178,4
-179,4
-180,4
-181,4
-182,4
-183,4
-184,4
-185,4
-186,4
-187,4
-188,4
-189,4
-190,4
-191,4
-192,4
-193,4
-194,4
-195,4
-196,4
-197,4
-198,4
-199,4
-200,4
-201,4
-202,4
-203,4
-204,4
-205,4
-206,4
-207,4
-208,4
-209,4
-210,4
-211,4
-212,4
-213,4
-214,4
-215,4
-216,4
-217,4
-218,4
-219,4
-220,4
-221,4
-222,4
-223,4
-224,4
-225,4
-226,4
-227,4
-228,4
-229,4
-230,4
-231,4
-232,4
-233,4
-234,4
-235,4
-236,4
-237,4
-238,4
-239,4
-240,4
-241,4
-242,4
-243,4
-244,4
-245,4
-246,4
-247,4
-248,4
-249,4
-250,4
-251,4
-252,4
-253,4
-254,4
-255,4
-256,4
-257,4
-258,4
-259,4
-260,4
-261,4
-262,4
-263,4
-264,4
-265,4
-266,4
-267,4
-268,4
-269,4
-270,4
-271,4
-272,4
-273,4
-274,4
-275,4
-276,4
-277,4
-278,4
-279,4
-280,4
-281,4
-282,4
-283,4
-284,4
-285,4
-286,4
-287,4
-288,4
-289,4
-290,4
-291,4
-292,4
-293,4
-294,4
-295,4
-296,4
-297,4
-298,4
-299,4
-300,4
-301,4
-302,4
-303,4
-304,4
-305,4
-306,4
-307,4
-308,4
-309,4
-310,4
-311,4
-312,4
-313,4
-314,4
-315,4
-316,4
-317,4
-318,4
-319,4
-320,4
-321,4
-322,4
-323,4
-324,4
-325,4
-326,4
-327,4
-328,4
-329,4
-330,4
-331,4
-332,4
-333,4
-334,4
-335,4
-336,4
-337,4
-338,4
-339,4
-340,4
-341,4
-342,4
-343,4
-344,4
-345,4
-346,4
-347,4
-348,4
-349,4
-350,4
-351,4
-352,4
-353,4
-354,4
-355,4
-356,4
-357,4
-358,4
-359,4
-360,4
-361,4
-362,4
-363,4
-364,4
-365,4
-366,4
-367,4
-368,4
-369,4
-370,4
-371,4
-372,4
-373,4
-374,4
-375,4
-376,4
-377,4
-378,4
-379,4
-380,4
-381,4
-382,4
-383,4
-384,4
-385,4
-386,4
-387,4
-388,4
-389,4
-390,4
-391,4
-392,4
-393,4
-394,4
-395,4
-396,4
-397,4
-398,4
-399,4
-400,4
-401,4
-402,4
-403,4
-404,4
-405,4
-406,4
-407,4
-408,4
-409,4
-410,4
-411,4
-412,4
-413,4
-414,4
-415,4
-416,4
-417,4
-418,4
-419,4
-420,4
-421,4
-422,4
-423,4
-424,4
-425,4
-426,4
-427,4
-428,4
-429,4
-430,4
-431,4
-432,4
-433,4
-434,4
-435,4
-436,4
-437,4
-438,4
-439,4
-440,4
-441,4
-442,4
-443,4
-444,4
-445,4
-446,4
-447,4
-448,4
-449,4
-450,4
-451,4
-452,4
-453,4
-454,4
-455,4
-456,4
-457,4
-458,4
-459,4
-460,4
-461,4
-462,4
-463,4
-464,4
-465,4
-466,4
-467,4
-468,4
-469,4
-470,4
-471,4
-472,4
-473,4
-474,4
-475,4
-476,4
-477,4
-478,4
-479,4
-480,4
-481,4
-482,4
-483,4
-484,4
-485,4
-486,4
-487,4
-488,4
-489,4
-490,4
-491,4
-492,4
-493,4
-494,4
-495,4
-496,4
-497,4
-498,4
-499,4
+,Unnamed: 0,Time,Tweet,User,Location,Retweets,Likes,Sentiment,sentiment
+0,0,2022-11-23 23:59:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",konradhs,,15207,0,4,4
+1,1,2022-11-23 23:59:47+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KathleenTorvik,,15207,0,4,4
+2,2,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",elperrodecrema,United States,15207,0,4,4
+3,3,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",joe_ob,MSP / CHI,15207,0,4,4
+4,4,2022-11-23 23:59:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ronniblack3,,15207,0,4,4
+5,5,2022-11-23 23:59:31+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ILass47,,15207,0,4,4
+6,6,2022-11-23 23:58:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Suzofthegarden,,15207,0,4,4
+7,7,2022-11-23 23:58:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolf_X5,,15207,0,4,4
+8,8,2022-11-23 23:58:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KateSiepert,"New York, NY",15207,0,4,4
+9,9,2022-11-23 23:58:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",XtinaCe,Dallas,15207,0,4,4
+10,10,2022-11-23 23:57:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cafesys,,15207,0,4,4
+11,11,2022-11-23 23:57:51+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",bfunk_and,"Roanoke, VA",15207,0,4,4
+12,12,2022-11-23 23:57:50+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dstep65,Glen Allen Virginia.,15207,0,4,4
+13,13,2022-11-23 23:57:03+00:00,"RT @helenfeguson: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Ritawilson321,"Tampa, FL",2,0,4,4
+14,14,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySm04206983,,15207,0,4,4
+15,15,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",johnl11905,,15207,0,4,4
+16,16,2022-11-23 23:56:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ProjectGuthrie,,15207,0,4,4
+17,17,2022-11-23 23:56:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SuigenerisJones,Atlantic coast US,15207,0,4,4
+18,18,2022-11-23 23:56:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySweep, minneapolis,15207,0,4,4
+19,19,2022-11-23 23:56:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",RobWeisser,"Baldwin, NY",15207,0,4,4
+20,20,2022-11-23 23:55:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",robertsg62,,15207,0,4,4
+21,21,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Qua1Neal,"Oklahoma, USA",15207,0,4,4
+22,22,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",madden_joyce,,15207,0,4,4
+23,23,2022-11-23 23:55:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",saintmama17,,15207,0,4,4
+24,24,2022-11-23 23:55:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",austintrixie,Austin TX,15207,0,4,4
+25,25,2022-11-23 23:55:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kwoolley88,"Minneapolis, MN",15207,0,4,4
+26,26,2022-11-23 23:55:26+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SophiFrost,Southeastern USA,15207,0,4,4
+27,27,2022-11-23 23:55:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Charlitos1274,"Cleveland, OH",15207,0,4,4
+28,28,2022-11-23 23:54:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NeNeresister,Earth by the sea 🌎 ☮️♈️🪬,15207,0,4,4
+29,29,2022-11-23 23:54:49+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TimoTallinn,"Tallinn,Estonia",15207,0,4,4
+30,30,2022-11-23 23:54:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FrancoDeMolina5,"Phoenix, AZ",15207,0,4,4
+31,31,2022-11-23 23:54:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",montanasoxfan,Montana,15207,0,4,4
+32,32,2022-11-23 23:54:18+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BITS336,New Jersey,15207,0,4,4
+33,33,2022-11-23 23:54:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kdcdcdsdtdkids,Tenn  USA,15207,0,4,4
+34,34,2022-11-23 23:53:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AngMat12,"Boise, ID",15207,0,4,4
+35,35,2022-11-23 23:52:59+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",independent_r21,USA,15207,0,4,4
+36,36,2022-11-23 23:52:48+00:00,@MuellerSheWrote It's what Republicans do. Ron Johnson does the same with a loophole. We need to change some laws.,WiNorthwoods,Northern WI,8,56,4,4
+37,37,2022-11-23 23:52:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kbkonnected,Chicago,15207,0,4,4
+38,38,2022-11-23 23:52:25+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",barbyone1,,15207,0,4,4
+39,39,2022-11-23 23:52:23+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kemu808,Maryland - Home of The RAVENS,15207,0,4,4
+40,40,2022-11-23 23:52:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TomW94610,,15207,0,4,4
+41,41,2022-11-23 23:52:17+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",UncivilCitizen,,15207,0,4,4
+42,42,2022-11-23 23:52:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",yllots,,15207,0,4,4
+43,43,2022-11-23 23:52:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cookiem53385809,,15207,0,4,4
+44,44,2022-11-23 23:52:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",LorraineCM,,15207,0,4,4
+45,45,2022-11-23 23:51:59+00:00,"@StandForBetter $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,0,1,4,4
+46,46,2022-11-23 23:51:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",nascar4_rob,,15207,0,4,4
+47,47,2022-11-23 23:51:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Shelley66179980,,15207,0,4,4
+48,48,2022-11-23 23:51:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Daisyloveop,,15207,0,4,4
+49,49,2022-11-23 23:51:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ckr3214,"Miami, FL",15207,0,4,4
+50,50,2022-11-23 23:51:30+00:00,"Watch ""Watch Ron Johnson BREAKS Biden's heart with 'Hunter' JAILTIME after mid-term...shows 'the laptop'"" on YouTube https://t.co/I5D8BHpWg1",laverne0528,,0,0,4,4
+51,51,2022-11-23 23:51:09+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",lucilleaustero2,,9,0,4,4
+52,52,2022-11-23 23:51:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolfe22nm,New Mexico,15207,0,4,4
+53,53,2022-11-23 23:50:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",susanmary,,15207,0,4,4
+54,54,2022-11-23 23:50:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",beeinchicago,Chicago,15207,0,4,4
+55,55,2022-11-23 23:50:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cherkendy,"Arizona, USA",15207,0,4,4
+56,56,2022-11-23 23:50:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GrannyNanny2009,"Minnesota, USA",15207,0,4,4
+57,57,2022-11-23 23:50:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",rokarw,"Houston, TX",15207,0,4,4
+58,58,2022-11-23 23:50:14+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piahaas,Goldens Bridge,15207,0,4,4
+59,59,2022-11-23 23:50:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Gee_Ray28,"Oakville, Ontario",15207,0,4,4
+60,60,2022-11-23 23:50:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dna1211,Greater Toronto Area,15207,0,4,4
+61,61,2022-11-23 23:50:03+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",soaringzapdos,,15207,0,4,4
+62,62,2022-11-23 23:50:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",lourdesdsilva,,15207,0,4,4
+63,63,2022-11-23 23:49:53+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cycle_virtuous,"San Diego, CA",15207,0,4,4
+64,64,2022-11-23 23:49:43+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",liz_maggio,,15207,0,4,4
+65,65,2022-11-23 23:49:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SaMama4,,15207,0,4,4
+66,66,2022-11-23 23:49:35+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cristinekatz,,15207,0,4,4
+67,67,2022-11-23 23:49:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FiveOfTau,"Connecticut, USA",15207,0,4,4
+68,68,2022-11-23 23:49:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Melbojudoka,"Bristol, England",15207,0,4,4
+69,69,2022-11-23 23:48:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",MonicaVanFleet1,"Colorado, USA",15207,0,4,4
+70,70,2022-11-23 23:48:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AnitaPeck11,Paradise,15207,0,4,4
+71,71,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NinaTinaZina,"Texas, USA",15207,0,4,4
+72,72,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",zalapk,,15207,0,4,4
+73,73,2022-11-23 23:48:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",CommandersNMgal,ABQ NM,15207,0,4,4
+74,74,2022-11-23 23:48:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",blb19570,"Florida, USA",15207,0,4,4
+75,75,2022-11-23 23:48:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",WickedLady16,,15207,0,4,4
+76,76,2022-11-23 23:48:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JuanitaIguana1,"Arkansas, USA",15207,0,4,4
+77,77,2022-11-23 23:48:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",randynoble13,"rochester, ny",15207,0,4,4
+78,78,2022-11-23 23:48:20+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piff0diddy,"Sydney,",15207,0,4,4
+79,79,2022-11-23 23:48:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Fuller17Tyson,United States,15207,0,4,4
+80,80,2022-11-23 23:48:15+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",KansasGrant,"Overland Park, Kansas",9,0,4,4
+81,81,2022-11-23 23:48:11+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",VoteHafner,,15207,0,4,4
+82,82,2022-11-23 23:48:11+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",StellaKramer,,9,0,4,4
+83,83,2022-11-23 23:48:10+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SteaminMadMoe,,15207,0,4,4
+84,84,2022-11-23 23:48:02+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",homefried3,"Texas, USA",15207,0,4,4
+85,85,2022-11-23 23:47:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Karlos_B58,Dominican Republic,15207,0,4,4
+86,86,2022-11-23 23:47:37+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",masondc886,Earth - most of the time,15207,0,4,4
+87,87,2022-11-23 23:47:33+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",realrockye00,,15207,0,4,4
+88,88,2022-11-23 23:47:30+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GaryMarch18,Michigan,15207,0,4,4
+89,89,2022-11-23 23:47:29+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JVSmooth42,,15207,0,4,4
+90,90,2022-11-23 23:47:21+00:00,"@BrianDMcBride $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,5,9,4,4
+91,91,2022-11-23 23:47:09+00:00,"@cenkuygur Boberts now husband groomed her as an underage teen. Wasn’t it Ron Johnson that covered for his best buddy coach while he groomed, raped and assaulted his students? Matt Gaetz “groomed” teen girls and trafficked them over state lines. They’re the “groomers” &amp;know it",Starbuck84,,0,0,4,4
+92,92,2022-11-23 23:47:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GloriaM48510690,,15207,0,4,4
+93,93,2022-11-23 23:46:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kathys0311,"san tan valley, az",15207,0,4,4
+94,94,2022-11-23 23:46:52+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AVastMachine,"Stanford, CA",15207,0,4,4
+95,95,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BarreraF_II,"Ciudad de Panamâ, Panamâ",15207,0,4,4
+96,96,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Jwalberse,"Virginia Beach, VA",15207,0,4,4
+97,97,2022-11-23 23:46:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",HRberkey,"Windsor, CA",15207,0,4,4
+98,98,2022-11-23 23:46:18+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",postcards4USA,,9,0,4,4
+99,99,2022-11-23 23:45:56+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",docvicki,"Laguna Beach, CA",15207,0,4,4
+100,0,2022-11-23 23:59:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",konradhs,,15207,0,4,4
+101,1,2022-11-23 23:59:47+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KathleenTorvik,,15207,0,4,4
+102,2,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",elperrodecrema,United States,15207,0,4,4
+103,3,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",joe_ob,MSP / CHI,15207,0,4,4
+104,4,2022-11-23 23:59:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ronniblack3,,15207,0,4,4
+105,5,2022-11-23 23:59:31+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ILass47,,15207,0,4,4
+106,6,2022-11-23 23:58:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Suzofthegarden,,15207,0,4,4
+107,7,2022-11-23 23:58:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolf_X5,,15207,0,4,4
+108,8,2022-11-23 23:58:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KateSiepert,"New York, NY",15207,0,4,4
+109,9,2022-11-23 23:58:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",XtinaCe,Dallas,15207,0,4,4
+110,10,2022-11-23 23:57:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cafesys,,15207,0,4,4
+111,11,2022-11-23 23:57:51+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",bfunk_and,"Roanoke, VA",15207,0,4,4
+112,12,2022-11-23 23:57:50+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dstep65,Glen Allen Virginia.,15207,0,4,4
+113,13,2022-11-23 23:57:03+00:00,"RT @helenfeguson: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Ritawilson321,"Tampa, FL",2,0,4,4
+114,14,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySm04206983,,15207,0,4,4
+115,15,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",johnl11905,,15207,0,4,4
+116,16,2022-11-23 23:56:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ProjectGuthrie,,15207,0,4,4
+117,17,2022-11-23 23:56:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SuigenerisJones,Atlantic coast US,15207,0,4,4
+118,18,2022-11-23 23:56:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySweep, minneapolis,15207,0,4,4
+119,19,2022-11-23 23:56:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",RobWeisser,"Baldwin, NY",15207,0,4,4
+120,20,2022-11-23 23:55:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",robertsg62,,15207,0,4,4
+121,21,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Qua1Neal,"Oklahoma, USA",15207,0,4,4
+122,22,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",madden_joyce,,15207,0,4,4
+123,23,2022-11-23 23:55:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",saintmama17,,15207,0,4,4
+124,24,2022-11-23 23:55:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",austintrixie,Austin TX,15207,0,4,4
+125,25,2022-11-23 23:55:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kwoolley88,"Minneapolis, MN",15207,0,4,4
+126,26,2022-11-23 23:55:26+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SophiFrost,Southeastern USA,15207,0,4,4
+127,27,2022-11-23 23:55:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Charlitos1274,"Cleveland, OH",15207,0,4,4
+128,28,2022-11-23 23:54:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NeNeresister,Earth by the sea 🌎 ☮️♈️🪬,15207,0,4,4
+129,29,2022-11-23 23:54:49+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TimoTallinn,"Tallinn,Estonia",15207,0,4,4
+130,30,2022-11-23 23:54:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FrancoDeMolina5,"Phoenix, AZ",15207,0,4,4
+131,31,2022-11-23 23:54:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",montanasoxfan,Montana,15207,0,4,4
+132,32,2022-11-23 23:54:18+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BITS336,New Jersey,15207,0,4,4
+133,33,2022-11-23 23:54:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kdcdcdsdtdkids,Tenn  USA,15207,0,4,4
+134,34,2022-11-23 23:53:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AngMat12,"Boise, ID",15207,0,4,4
+135,35,2022-11-23 23:52:59+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",independent_r21,USA,15207,0,4,4
+136,36,2022-11-23 23:52:48+00:00,@MuellerSheWrote It's what Republicans do. Ron Johnson does the same with a loophole. We need to change some laws.,WiNorthwoods,Northern WI,8,56,4,4
+137,37,2022-11-23 23:52:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kbkonnected,Chicago,15207,0,4,4
+138,38,2022-11-23 23:52:25+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",barbyone1,,15207,0,4,4
+139,39,2022-11-23 23:52:23+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kemu808,Maryland - Home of The RAVENS,15207,0,4,4
+140,40,2022-11-23 23:52:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TomW94610,,15207,0,4,4
+141,41,2022-11-23 23:52:17+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",UncivilCitizen,,15207,0,4,4
+142,42,2022-11-23 23:52:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",yllots,,15207,0,4,4
+143,43,2022-11-23 23:52:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cookiem53385809,,15207,0,4,4
+144,44,2022-11-23 23:52:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",LorraineCM,,15207,0,4,4
+145,45,2022-11-23 23:51:59+00:00,"@StandForBetter $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,0,1,4,4
+146,46,2022-11-23 23:51:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",nascar4_rob,,15207,0,4,4
+147,47,2022-11-23 23:51:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Shelley66179980,,15207,0,4,4
+148,48,2022-11-23 23:51:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Daisyloveop,,15207,0,4,4
+149,49,2022-11-23 23:51:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ckr3214,"Miami, FL",15207,0,4,4
+150,50,2022-11-23 23:51:30+00:00,"Watch ""Watch Ron Johnson BREAKS Biden's heart with 'Hunter' JAILTIME after mid-term...shows 'the laptop'"" on YouTube https://t.co/I5D8BHpWg1",laverne0528,,0,0,4,4
+151,51,2022-11-23 23:51:09+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",lucilleaustero2,,9,0,4,4
+152,52,2022-11-23 23:51:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolfe22nm,New Mexico,15207,0,4,4
+153,53,2022-11-23 23:50:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",susanmary,,15207,0,4,4
+154,54,2022-11-23 23:50:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",beeinchicago,Chicago,15207,0,4,4
+155,55,2022-11-23 23:50:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cherkendy,"Arizona, USA",15207,0,4,4
+156,56,2022-11-23 23:50:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GrannyNanny2009,"Minnesota, USA",15207,0,4,4
+157,57,2022-11-23 23:50:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",rokarw,"Houston, TX",15207,0,4,4
+158,58,2022-11-23 23:50:14+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piahaas,Goldens Bridge,15207,0,4,4
+159,59,2022-11-23 23:50:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Gee_Ray28,"Oakville, Ontario",15207,0,4,4
+160,60,2022-11-23 23:50:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dna1211,Greater Toronto Area,15207,0,4,4
+161,61,2022-11-23 23:50:03+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",soaringzapdos,,15207,0,4,4
+162,62,2022-11-23 23:50:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",lourdesdsilva,,15207,0,4,4
+163,63,2022-11-23 23:49:53+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cycle_virtuous,"San Diego, CA",15207,0,4,4
+164,64,2022-11-23 23:49:43+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",liz_maggio,,15207,0,4,4
+165,65,2022-11-23 23:49:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SaMama4,,15207,0,4,4
+166,66,2022-11-23 23:49:35+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cristinekatz,,15207,0,4,4
+167,67,2022-11-23 23:49:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FiveOfTau,"Connecticut, USA",15207,0,4,4
+168,68,2022-11-23 23:49:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Melbojudoka,"Bristol, England",15207,0,4,4
+169,69,2022-11-23 23:48:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",MonicaVanFleet1,"Colorado, USA",15207,0,4,4
+170,70,2022-11-23 23:48:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AnitaPeck11,Paradise,15207,0,4,4
+171,71,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NinaTinaZina,"Texas, USA",15207,0,4,4
+172,72,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",zalapk,,15207,0,4,4
+173,73,2022-11-23 23:48:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",CommandersNMgal,ABQ NM,15207,0,4,4
+174,74,2022-11-23 23:48:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",blb19570,"Florida, USA",15207,0,4,4
+175,75,2022-11-23 23:48:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",WickedLady16,,15207,0,4,4
+176,76,2022-11-23 23:48:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JuanitaIguana1,"Arkansas, USA",15207,0,4,4
+177,77,2022-11-23 23:48:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",randynoble13,"rochester, ny",15207,0,4,4
+178,78,2022-11-23 23:48:20+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piff0diddy,"Sydney,",15207,0,4,4
+179,79,2022-11-23 23:48:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Fuller17Tyson,United States,15207,0,4,4
+180,80,2022-11-23 23:48:15+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",KansasGrant,"Overland Park, Kansas",9,0,4,4
+181,81,2022-11-23 23:48:11+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",VoteHafner,,15207,0,4,4
+182,82,2022-11-23 23:48:11+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",StellaKramer,,9,0,4,4
+183,83,2022-11-23 23:48:10+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SteaminMadMoe,,15207,0,4,4
+184,84,2022-11-23 23:48:02+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",homefried3,"Texas, USA",15207,0,4,4
+185,85,2022-11-23 23:47:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Karlos_B58,Dominican Republic,15207,0,4,4
+186,86,2022-11-23 23:47:37+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",masondc886,Earth - most of the time,15207,0,4,4
+187,87,2022-11-23 23:47:33+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",realrockye00,,15207,0,4,4
+188,88,2022-11-23 23:47:30+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GaryMarch18,Michigan,15207,0,4,4
+189,89,2022-11-23 23:47:29+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JVSmooth42,,15207,0,4,4
+190,90,2022-11-23 23:47:21+00:00,"@BrianDMcBride $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,5,9,4,4
+191,91,2022-11-23 23:47:09+00:00,"@cenkuygur Boberts now husband groomed her as an underage teen. Wasn’t it Ron Johnson that covered for his best buddy coach while he groomed, raped and assaulted his students? Matt Gaetz “groomed” teen girls and trafficked them over state lines. They’re the “groomers” &amp;know it",Starbuck84,,0,0,4,4
+192,92,2022-11-23 23:47:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GloriaM48510690,,15207,0,4,4
+193,93,2022-11-23 23:46:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kathys0311,"san tan valley, az",15207,0,4,4
+194,94,2022-11-23 23:46:52+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AVastMachine,"Stanford, CA",15207,0,4,4
+195,95,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BarreraF_II,"Ciudad de Panamâ, Panamâ",15207,0,4,4
+196,96,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Jwalberse,"Virginia Beach, VA",15207,0,4,4
+197,97,2022-11-23 23:46:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",HRberkey,"Windsor, CA",15207,0,4,4
+198,98,2022-11-23 23:46:18+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",postcards4USA,,9,0,4,4
+199,99,2022-11-23 23:45:56+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",docvicki,"Laguna Beach, CA",15207,0,4,4
+200,0,2022-11-23 23:59:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",konradhs,,15207,0,4,4
+201,1,2022-11-23 23:59:47+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KathleenTorvik,,15207,0,4,4
+202,2,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",elperrodecrema,United States,15207,0,4,4
+203,3,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",joe_ob,MSP / CHI,15207,0,4,4
+204,4,2022-11-23 23:59:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ronniblack3,,15207,0,4,4
+205,5,2022-11-23 23:59:31+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ILass47,,15207,0,4,4
+206,6,2022-11-23 23:58:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Suzofthegarden,,15207,0,4,4
+207,7,2022-11-23 23:58:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolf_X5,,15207,0,4,4
+208,8,2022-11-23 23:58:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KateSiepert,"New York, NY",15207,0,4,4
+209,9,2022-11-23 23:58:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",XtinaCe,Dallas,15207,0,4,4
+210,10,2022-11-23 23:57:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cafesys,,15207,0,4,4
+211,11,2022-11-23 23:57:51+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",bfunk_and,"Roanoke, VA",15207,0,4,4
+212,12,2022-11-23 23:57:50+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dstep65,Glen Allen Virginia.,15207,0,4,4
+213,13,2022-11-23 23:57:03+00:00,"RT @helenfeguson: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Ritawilson321,"Tampa, FL",2,0,4,4
+214,14,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySm04206983,,15207,0,4,4
+215,15,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",johnl11905,,15207,0,4,4
+216,16,2022-11-23 23:56:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ProjectGuthrie,,15207,0,4,4
+217,17,2022-11-23 23:56:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SuigenerisJones,Atlantic coast US,15207,0,4,4
+218,18,2022-11-23 23:56:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySweep, minneapolis,15207,0,4,4
+219,19,2022-11-23 23:56:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",RobWeisser,"Baldwin, NY",15207,0,4,4
+220,20,2022-11-23 23:55:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",robertsg62,,15207,0,4,4
+221,21,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Qua1Neal,"Oklahoma, USA",15207,0,4,4
+222,22,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",madden_joyce,,15207,0,4,4
+223,23,2022-11-23 23:55:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",saintmama17,,15207,0,4,4
+224,24,2022-11-23 23:55:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",austintrixie,Austin TX,15207,0,4,4
+225,25,2022-11-23 23:55:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kwoolley88,"Minneapolis, MN",15207,0,4,4
+226,26,2022-11-23 23:55:26+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SophiFrost,Southeastern USA,15207,0,4,4
+227,27,2022-11-23 23:55:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Charlitos1274,"Cleveland, OH",15207,0,4,4
+228,28,2022-11-23 23:54:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NeNeresister,Earth by the sea 🌎 ☮️♈️🪬,15207,0,4,4
+229,29,2022-11-23 23:54:49+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TimoTallinn,"Tallinn,Estonia",15207,0,4,4
+230,30,2022-11-23 23:54:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FrancoDeMolina5,"Phoenix, AZ",15207,0,4,4
+231,31,2022-11-23 23:54:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",montanasoxfan,Montana,15207,0,4,4
+232,32,2022-11-23 23:54:18+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BITS336,New Jersey,15207,0,4,4
+233,33,2022-11-23 23:54:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kdcdcdsdtdkids,Tenn  USA,15207,0,4,4
+234,34,2022-11-23 23:53:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AngMat12,"Boise, ID",15207,0,4,4
+235,35,2022-11-23 23:52:59+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",independent_r21,USA,15207,0,4,4
+236,36,2022-11-23 23:52:48+00:00,@MuellerSheWrote It's what Republicans do. Ron Johnson does the same with a loophole. We need to change some laws.,WiNorthwoods,Northern WI,8,56,4,4
+237,37,2022-11-23 23:52:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kbkonnected,Chicago,15207,0,4,4
+238,38,2022-11-23 23:52:25+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",barbyone1,,15207,0,4,4
+239,39,2022-11-23 23:52:23+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kemu808,Maryland - Home of The RAVENS,15207,0,4,4
+240,40,2022-11-23 23:52:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TomW94610,,15207,0,4,4
+241,41,2022-11-23 23:52:17+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",UncivilCitizen,,15207,0,4,4
+242,42,2022-11-23 23:52:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",yllots,,15207,0,4,4
+243,43,2022-11-23 23:52:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cookiem53385809,,15207,0,4,4
+244,44,2022-11-23 23:52:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",LorraineCM,,15207,0,4,4
+245,45,2022-11-23 23:51:59+00:00,"@StandForBetter $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,0,1,4,4
+246,46,2022-11-23 23:51:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",nascar4_rob,,15207,0,4,4
+247,47,2022-11-23 23:51:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Shelley66179980,,15207,0,4,4
+248,48,2022-11-23 23:51:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Daisyloveop,,15207,0,4,4
+249,49,2022-11-23 23:51:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ckr3214,"Miami, FL",15207,0,4,4
+250,50,2022-11-23 23:51:30+00:00,"Watch ""Watch Ron Johnson BREAKS Biden's heart with 'Hunter' JAILTIME after mid-term...shows 'the laptop'"" on YouTube https://t.co/I5D8BHpWg1",laverne0528,,0,0,4,4
+251,51,2022-11-23 23:51:09+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",lucilleaustero2,,9,0,4,4
+252,52,2022-11-23 23:51:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolfe22nm,New Mexico,15207,0,4,4
+253,53,2022-11-23 23:50:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",susanmary,,15207,0,4,4
+254,54,2022-11-23 23:50:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",beeinchicago,Chicago,15207,0,4,4
+255,55,2022-11-23 23:50:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cherkendy,"Arizona, USA",15207,0,4,4
+256,56,2022-11-23 23:50:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GrannyNanny2009,"Minnesota, USA",15207,0,4,4
+257,57,2022-11-23 23:50:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",rokarw,"Houston, TX",15207,0,4,4
+258,58,2022-11-23 23:50:14+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piahaas,Goldens Bridge,15207,0,4,4
+259,59,2022-11-23 23:50:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Gee_Ray28,"Oakville, Ontario",15207,0,4,4
+260,60,2022-11-23 23:50:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dna1211,Greater Toronto Area,15207,0,4,4
+261,61,2022-11-23 23:50:03+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",soaringzapdos,,15207,0,4,4
+262,62,2022-11-23 23:50:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",lourdesdsilva,,15207,0,4,4
+263,63,2022-11-23 23:49:53+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cycle_virtuous,"San Diego, CA",15207,0,4,4
+264,64,2022-11-23 23:49:43+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",liz_maggio,,15207,0,4,4
+265,65,2022-11-23 23:49:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SaMama4,,15207,0,4,4
+266,66,2022-11-23 23:49:35+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cristinekatz,,15207,0,4,4
+267,67,2022-11-23 23:49:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FiveOfTau,"Connecticut, USA",15207,0,4,4
+268,68,2022-11-23 23:49:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Melbojudoka,"Bristol, England",15207,0,4,4
+269,69,2022-11-23 23:48:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",MonicaVanFleet1,"Colorado, USA",15207,0,4,4
+270,70,2022-11-23 23:48:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AnitaPeck11,Paradise,15207,0,4,4
+271,71,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NinaTinaZina,"Texas, USA",15207,0,4,4
+272,72,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",zalapk,,15207,0,4,4
+273,73,2022-11-23 23:48:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",CommandersNMgal,ABQ NM,15207,0,4,4
+274,74,2022-11-23 23:48:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",blb19570,"Florida, USA",15207,0,4,4
+275,75,2022-11-23 23:48:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",WickedLady16,,15207,0,4,4
+276,76,2022-11-23 23:48:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JuanitaIguana1,"Arkansas, USA",15207,0,4,4
+277,77,2022-11-23 23:48:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",randynoble13,"rochester, ny",15207,0,4,4
+278,78,2022-11-23 23:48:20+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piff0diddy,"Sydney,",15207,0,4,4
+279,79,2022-11-23 23:48:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Fuller17Tyson,United States,15207,0,4,4
+280,80,2022-11-23 23:48:15+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",KansasGrant,"Overland Park, Kansas",9,0,4,4
+281,81,2022-11-23 23:48:11+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",VoteHafner,,15207,0,4,4
+282,82,2022-11-23 23:48:11+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",StellaKramer,,9,0,4,4
+283,83,2022-11-23 23:48:10+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SteaminMadMoe,,15207,0,4,4
+284,84,2022-11-23 23:48:02+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",homefried3,"Texas, USA",15207,0,4,4
+285,85,2022-11-23 23:47:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Karlos_B58,Dominican Republic,15207,0,4,4
+286,86,2022-11-23 23:47:37+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",masondc886,Earth - most of the time,15207,0,4,4
+287,87,2022-11-23 23:47:33+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",realrockye00,,15207,0,4,4
+288,88,2022-11-23 23:47:30+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GaryMarch18,Michigan,15207,0,4,4
+289,89,2022-11-23 23:47:29+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JVSmooth42,,15207,0,4,4
+290,90,2022-11-23 23:47:21+00:00,"@BrianDMcBride $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,5,9,4,4
+291,91,2022-11-23 23:47:09+00:00,"@cenkuygur Boberts now husband groomed her as an underage teen. Wasn’t it Ron Johnson that covered for his best buddy coach while he groomed, raped and assaulted his students? Matt Gaetz “groomed” teen girls and trafficked them over state lines. They’re the “groomers” &amp;know it",Starbuck84,,0,0,4,4
+292,92,2022-11-23 23:47:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GloriaM48510690,,15207,0,4,4
+293,93,2022-11-23 23:46:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kathys0311,"san tan valley, az",15207,0,4,4
+294,94,2022-11-23 23:46:52+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AVastMachine,"Stanford, CA",15207,0,4,4
+295,95,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BarreraF_II,"Ciudad de Panamâ, Panamâ",15207,0,4,4
+296,96,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Jwalberse,"Virginia Beach, VA",15207,0,4,4
+297,97,2022-11-23 23:46:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",HRberkey,"Windsor, CA",15207,0,4,4
+298,98,2022-11-23 23:46:18+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",postcards4USA,,9,0,4,4
+299,99,2022-11-23 23:45:56+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",docvicki,"Laguna Beach, CA",15207,0,4,4
+300,0,2022-11-23 23:59:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",konradhs,,15207,0,4,4
+301,1,2022-11-23 23:59:47+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KathleenTorvik,,15207,0,4,4
+302,2,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",elperrodecrema,United States,15207,0,4,4
+303,3,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",joe_ob,MSP / CHI,15207,0,4,4
+304,4,2022-11-23 23:59:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ronniblack3,,15207,0,4,4
+305,5,2022-11-23 23:59:31+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ILass47,,15207,0,4,4
+306,6,2022-11-23 23:58:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Suzofthegarden,,15207,0,4,4
+307,7,2022-11-23 23:58:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolf_X5,,15207,0,4,4
+308,8,2022-11-23 23:58:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KateSiepert,"New York, NY",15207,0,4,4
+309,9,2022-11-23 23:58:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",XtinaCe,Dallas,15207,0,4,4
+310,10,2022-11-23 23:57:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cafesys,,15207,0,4,4
+311,11,2022-11-23 23:57:51+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",bfunk_and,"Roanoke, VA",15207,0,4,4
+312,12,2022-11-23 23:57:50+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dstep65,Glen Allen Virginia.,15207,0,4,4
+313,13,2022-11-23 23:57:03+00:00,"RT @helenfeguson: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Ritawilson321,"Tampa, FL",2,0,4,4
+314,14,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySm04206983,,15207,0,4,4
+315,15,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",johnl11905,,15207,0,4,4
+316,16,2022-11-23 23:56:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ProjectGuthrie,,15207,0,4,4
+317,17,2022-11-23 23:56:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SuigenerisJones,Atlantic coast US,15207,0,4,4
+318,18,2022-11-23 23:56:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySweep, minneapolis,15207,0,4,4
+319,19,2022-11-23 23:56:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",RobWeisser,"Baldwin, NY",15207,0,4,4
+320,20,2022-11-23 23:55:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",robertsg62,,15207,0,4,4
+321,21,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Qua1Neal,"Oklahoma, USA",15207,0,4,4
+322,22,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",madden_joyce,,15207,0,4,4
+323,23,2022-11-23 23:55:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",saintmama17,,15207,0,4,4
+324,24,2022-11-23 23:55:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",austintrixie,Austin TX,15207,0,4,4
+325,25,2022-11-23 23:55:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kwoolley88,"Minneapolis, MN",15207,0,4,4
+326,26,2022-11-23 23:55:26+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SophiFrost,Southeastern USA,15207,0,4,4
+327,27,2022-11-23 23:55:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Charlitos1274,"Cleveland, OH",15207,0,4,4
+328,28,2022-11-23 23:54:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NeNeresister,Earth by the sea 🌎 ☮️♈️🪬,15207,0,4,4
+329,29,2022-11-23 23:54:49+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TimoTallinn,"Tallinn,Estonia",15207,0,4,4
+330,30,2022-11-23 23:54:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FrancoDeMolina5,"Phoenix, AZ",15207,0,4,4
+331,31,2022-11-23 23:54:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",montanasoxfan,Montana,15207,0,4,4
+332,32,2022-11-23 23:54:18+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BITS336,New Jersey,15207,0,4,4
+333,33,2022-11-23 23:54:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kdcdcdsdtdkids,Tenn  USA,15207,0,4,4
+334,34,2022-11-23 23:53:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AngMat12,"Boise, ID",15207,0,4,4
+335,35,2022-11-23 23:52:59+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",independent_r21,USA,15207,0,4,4
+336,36,2022-11-23 23:52:48+00:00,@MuellerSheWrote It's what Republicans do. Ron Johnson does the same with a loophole. We need to change some laws.,WiNorthwoods,Northern WI,8,56,4,4
+337,37,2022-11-23 23:52:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kbkonnected,Chicago,15207,0,4,4
+338,38,2022-11-23 23:52:25+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",barbyone1,,15207,0,4,4
+339,39,2022-11-23 23:52:23+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kemu808,Maryland - Home of The RAVENS,15207,0,4,4
+340,40,2022-11-23 23:52:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TomW94610,,15207,0,4,4
+341,41,2022-11-23 23:52:17+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",UncivilCitizen,,15207,0,4,4
+342,42,2022-11-23 23:52:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",yllots,,15207,0,4,4
+343,43,2022-11-23 23:52:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cookiem53385809,,15207,0,4,4
+344,44,2022-11-23 23:52:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",LorraineCM,,15207,0,4,4
+345,45,2022-11-23 23:51:59+00:00,"@StandForBetter $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,0,1,4,4
+346,46,2022-11-23 23:51:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",nascar4_rob,,15207,0,4,4
+347,47,2022-11-23 23:51:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Shelley66179980,,15207,0,4,4
+348,48,2022-11-23 23:51:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Daisyloveop,,15207,0,4,4
+349,49,2022-11-23 23:51:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ckr3214,"Miami, FL",15207,0,4,4
+350,50,2022-11-23 23:51:30+00:00,"Watch ""Watch Ron Johnson BREAKS Biden's heart with 'Hunter' JAILTIME after mid-term...shows 'the laptop'"" on YouTube https://t.co/I5D8BHpWg1",laverne0528,,0,0,4,4
+351,51,2022-11-23 23:51:09+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",lucilleaustero2,,9,0,4,4
+352,52,2022-11-23 23:51:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolfe22nm,New Mexico,15207,0,4,4
+353,53,2022-11-23 23:50:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",susanmary,,15207,0,4,4
+354,54,2022-11-23 23:50:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",beeinchicago,Chicago,15207,0,4,4
+355,55,2022-11-23 23:50:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cherkendy,"Arizona, USA",15207,0,4,4
+356,56,2022-11-23 23:50:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GrannyNanny2009,"Minnesota, USA",15207,0,4,4
+357,57,2022-11-23 23:50:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",rokarw,"Houston, TX",15207,0,4,4
+358,58,2022-11-23 23:50:14+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piahaas,Goldens Bridge,15207,0,4,4
+359,59,2022-11-23 23:50:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Gee_Ray28,"Oakville, Ontario",15207,0,4,4
+360,60,2022-11-23 23:50:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dna1211,Greater Toronto Area,15207,0,4,4
+361,61,2022-11-23 23:50:03+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",soaringzapdos,,15207,0,4,4
+362,62,2022-11-23 23:50:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",lourdesdsilva,,15207,0,4,4
+363,63,2022-11-23 23:49:53+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cycle_virtuous,"San Diego, CA",15207,0,4,4
+364,64,2022-11-23 23:49:43+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",liz_maggio,,15207,0,4,4
+365,65,2022-11-23 23:49:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SaMama4,,15207,0,4,4
+366,66,2022-11-23 23:49:35+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cristinekatz,,15207,0,4,4
+367,67,2022-11-23 23:49:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FiveOfTau,"Connecticut, USA",15207,0,4,4
+368,68,2022-11-23 23:49:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Melbojudoka,"Bristol, England",15207,0,4,4
+369,69,2022-11-23 23:48:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",MonicaVanFleet1,"Colorado, USA",15207,0,4,4
+370,70,2022-11-23 23:48:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AnitaPeck11,Paradise,15207,0,4,4
+371,71,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NinaTinaZina,"Texas, USA",15207,0,4,4
+372,72,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",zalapk,,15207,0,4,4
+373,73,2022-11-23 23:48:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",CommandersNMgal,ABQ NM,15207,0,4,4
+374,74,2022-11-23 23:48:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",blb19570,"Florida, USA",15207,0,4,4
+375,75,2022-11-23 23:48:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",WickedLady16,,15207,0,4,4
+376,76,2022-11-23 23:48:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JuanitaIguana1,"Arkansas, USA",15207,0,4,4
+377,77,2022-11-23 23:48:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",randynoble13,"rochester, ny",15207,0,4,4
+378,78,2022-11-23 23:48:20+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piff0diddy,"Sydney,",15207,0,4,4
+379,79,2022-11-23 23:48:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Fuller17Tyson,United States,15207,0,4,4
+380,80,2022-11-23 23:48:15+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",KansasGrant,"Overland Park, Kansas",9,0,4,4
+381,81,2022-11-23 23:48:11+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",VoteHafner,,15207,0,4,4
+382,82,2022-11-23 23:48:11+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",StellaKramer,,9,0,4,4
+383,83,2022-11-23 23:48:10+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SteaminMadMoe,,15207,0,4,4
+384,84,2022-11-23 23:48:02+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",homefried3,"Texas, USA",15207,0,4,4
+385,85,2022-11-23 23:47:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Karlos_B58,Dominican Republic,15207,0,4,4
+386,86,2022-11-23 23:47:37+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",masondc886,Earth - most of the time,15207,0,4,4
+387,87,2022-11-23 23:47:33+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",realrockye00,,15207,0,4,4
+388,88,2022-11-23 23:47:30+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GaryMarch18,Michigan,15207,0,4,4
+389,89,2022-11-23 23:47:29+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JVSmooth42,,15207,0,4,4
+390,90,2022-11-23 23:47:21+00:00,"@BrianDMcBride $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,5,9,4,4
+391,91,2022-11-23 23:47:09+00:00,"@cenkuygur Boberts now husband groomed her as an underage teen. Wasn’t it Ron Johnson that covered for his best buddy coach while he groomed, raped and assaulted his students? Matt Gaetz “groomed” teen girls and trafficked them over state lines. They’re the “groomers” &amp;know it",Starbuck84,,0,0,4,4
+392,92,2022-11-23 23:47:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GloriaM48510690,,15207,0,4,4
+393,93,2022-11-23 23:46:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kathys0311,"san tan valley, az",15207,0,4,4
+394,94,2022-11-23 23:46:52+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AVastMachine,"Stanford, CA",15207,0,4,4
+395,95,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BarreraF_II,"Ciudad de Panamâ, Panamâ",15207,0,4,4
+396,96,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Jwalberse,"Virginia Beach, VA",15207,0,4,4
+397,97,2022-11-23 23:46:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",HRberkey,"Windsor, CA",15207,0,4,4
+398,98,2022-11-23 23:46:18+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",postcards4USA,,9,0,4,4
+399,99,2022-11-23 23:45:56+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",docvicki,"Laguna Beach, CA",15207,0,4,4
+400,0,2022-11-23 23:59:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",konradhs,,15207,0,4,4
+401,1,2022-11-23 23:59:47+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KathleenTorvik,,15207,0,4,4
+402,2,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",elperrodecrema,United States,15207,0,4,4
+403,3,2022-11-23 23:59:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",joe_ob,MSP / CHI,15207,0,4,4
+404,4,2022-11-23 23:59:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ronniblack3,,15207,0,4,4
+405,5,2022-11-23 23:59:31+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ILass47,,15207,0,4,4
+406,6,2022-11-23 23:58:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Suzofthegarden,,15207,0,4,4
+407,7,2022-11-23 23:58:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolf_X5,,15207,0,4,4
+408,8,2022-11-23 23:58:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",KateSiepert,"New York, NY",15207,0,4,4
+409,9,2022-11-23 23:58:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",XtinaCe,Dallas,15207,0,4,4
+410,10,2022-11-23 23:57:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cafesys,,15207,0,4,4
+411,11,2022-11-23 23:57:51+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",bfunk_and,"Roanoke, VA",15207,0,4,4
+412,12,2022-11-23 23:57:50+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dstep65,Glen Allen Virginia.,15207,0,4,4
+413,13,2022-11-23 23:57:03+00:00,"RT @helenfeguson: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Ritawilson321,"Tampa, FL",2,0,4,4
+414,14,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySm04206983,,15207,0,4,4
+415,15,2022-11-23 23:57:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",johnl11905,,15207,0,4,4
+416,16,2022-11-23 23:56:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ProjectGuthrie,,15207,0,4,4
+417,17,2022-11-23 23:56:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SuigenerisJones,Atlantic coast US,15207,0,4,4
+418,18,2022-11-23 23:56:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NancySweep, minneapolis,15207,0,4,4
+419,19,2022-11-23 23:56:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",RobWeisser,"Baldwin, NY",15207,0,4,4
+420,20,2022-11-23 23:55:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",robertsg62,,15207,0,4,4
+421,21,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Qua1Neal,"Oklahoma, USA",15207,0,4,4
+422,22,2022-11-23 23:55:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",madden_joyce,,15207,0,4,4
+423,23,2022-11-23 23:55:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",saintmama17,,15207,0,4,4
+424,24,2022-11-23 23:55:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",austintrixie,Austin TX,15207,0,4,4
+425,25,2022-11-23 23:55:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kwoolley88,"Minneapolis, MN",15207,0,4,4
+426,26,2022-11-23 23:55:26+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SophiFrost,Southeastern USA,15207,0,4,4
+427,27,2022-11-23 23:55:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Charlitos1274,"Cleveland, OH",15207,0,4,4
+428,28,2022-11-23 23:54:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NeNeresister,Earth by the sea 🌎 ☮️♈️🪬,15207,0,4,4
+429,29,2022-11-23 23:54:49+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TimoTallinn,"Tallinn,Estonia",15207,0,4,4
+430,30,2022-11-23 23:54:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FrancoDeMolina5,"Phoenix, AZ",15207,0,4,4
+431,31,2022-11-23 23:54:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",montanasoxfan,Montana,15207,0,4,4
+432,32,2022-11-23 23:54:18+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BITS336,New Jersey,15207,0,4,4
+433,33,2022-11-23 23:54:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kdcdcdsdtdkids,Tenn  USA,15207,0,4,4
+434,34,2022-11-23 23:53:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AngMat12,"Boise, ID",15207,0,4,4
+435,35,2022-11-23 23:52:59+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",independent_r21,USA,15207,0,4,4
+436,36,2022-11-23 23:52:48+00:00,@MuellerSheWrote It's what Republicans do. Ron Johnson does the same with a loophole. We need to change some laws.,WiNorthwoods,Northern WI,8,56,4,4
+437,37,2022-11-23 23:52:38+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kbkonnected,Chicago,15207,0,4,4
+438,38,2022-11-23 23:52:25+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",barbyone1,,15207,0,4,4
+439,39,2022-11-23 23:52:23+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kemu808,Maryland - Home of The RAVENS,15207,0,4,4
+440,40,2022-11-23 23:52:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",TomW94610,,15207,0,4,4
+441,41,2022-11-23 23:52:17+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",UncivilCitizen,,15207,0,4,4
+442,42,2022-11-23 23:52:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",yllots,,15207,0,4,4
+443,43,2022-11-23 23:52:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cookiem53385809,,15207,0,4,4
+444,44,2022-11-23 23:52:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",LorraineCM,,15207,0,4,4
+445,45,2022-11-23 23:51:59+00:00,"@StandForBetter $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,0,1,4,4
+446,46,2022-11-23 23:51:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",nascar4_rob,,15207,0,4,4
+447,47,2022-11-23 23:51:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Shelley66179980,,15207,0,4,4
+448,48,2022-11-23 23:51:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Daisyloveop,,15207,0,4,4
+449,49,2022-11-23 23:51:39+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",ckr3214,"Miami, FL",15207,0,4,4
+450,50,2022-11-23 23:51:30+00:00,"Watch ""Watch Ron Johnson BREAKS Biden's heart with 'Hunter' JAILTIME after mid-term...shows 'the laptop'"" on YouTube https://t.co/I5D8BHpWg1",laverne0528,,0,0,4,4
+451,51,2022-11-23 23:51:09+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",lucilleaustero2,,9,0,4,4
+452,52,2022-11-23 23:51:00+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Wolfe22nm,New Mexico,15207,0,4,4
+453,53,2022-11-23 23:50:54+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",susanmary,,15207,0,4,4
+454,54,2022-11-23 23:50:48+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",beeinchicago,Chicago,15207,0,4,4
+455,55,2022-11-23 23:50:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cherkendy,"Arizona, USA",15207,0,4,4
+456,56,2022-11-23 23:50:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GrannyNanny2009,"Minnesota, USA",15207,0,4,4
+457,57,2022-11-23 23:50:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",rokarw,"Houston, TX",15207,0,4,4
+458,58,2022-11-23 23:50:14+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piahaas,Goldens Bridge,15207,0,4,4
+459,59,2022-11-23 23:50:07+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Gee_Ray28,"Oakville, Ontario",15207,0,4,4
+460,60,2022-11-23 23:50:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",dna1211,Greater Toronto Area,15207,0,4,4
+461,61,2022-11-23 23:50:03+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",soaringzapdos,,15207,0,4,4
+462,62,2022-11-23 23:50:01+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",lourdesdsilva,,15207,0,4,4
+463,63,2022-11-23 23:49:53+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",cycle_virtuous,"San Diego, CA",15207,0,4,4
+464,64,2022-11-23 23:49:43+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",liz_maggio,,15207,0,4,4
+465,65,2022-11-23 23:49:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SaMama4,,15207,0,4,4
+466,66,2022-11-23 23:49:35+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Cristinekatz,,15207,0,4,4
+467,67,2022-11-23 23:49:34+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",FiveOfTau,"Connecticut, USA",15207,0,4,4
+468,68,2022-11-23 23:49:27+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Melbojudoka,"Bristol, England",15207,0,4,4
+469,69,2022-11-23 23:48:58+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",MonicaVanFleet1,"Colorado, USA",15207,0,4,4
+470,70,2022-11-23 23:48:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AnitaPeck11,Paradise,15207,0,4,4
+471,71,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",NinaTinaZina,"Texas, USA",15207,0,4,4
+472,72,2022-11-23 23:48:45+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",zalapk,,15207,0,4,4
+473,73,2022-11-23 23:48:44+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",CommandersNMgal,ABQ NM,15207,0,4,4
+474,74,2022-11-23 23:48:41+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",blb19570,"Florida, USA",15207,0,4,4
+475,75,2022-11-23 23:48:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",WickedLady16,,15207,0,4,4
+476,76,2022-11-23 23:48:32+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JuanitaIguana1,"Arkansas, USA",15207,0,4,4
+477,77,2022-11-23 23:48:22+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",randynoble13,"rochester, ny",15207,0,4,4
+478,78,2022-11-23 23:48:20+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",piff0diddy,"Sydney,",15207,0,4,4
+479,79,2022-11-23 23:48:16+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Fuller17Tyson,United States,15207,0,4,4
+480,80,2022-11-23 23:48:15+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",KansasGrant,"Overland Park, Kansas",9,0,4,4
+481,81,2022-11-23 23:48:11+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",VoteHafner,,15207,0,4,4
+482,82,2022-11-23 23:48:11+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",StellaKramer,,9,0,4,4
+483,83,2022-11-23 23:48:10+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",SteaminMadMoe,,15207,0,4,4
+484,84,2022-11-23 23:48:02+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",homefried3,"Texas, USA",15207,0,4,4
+485,85,2022-11-23 23:47:55+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Karlos_B58,Dominican Republic,15207,0,4,4
+486,86,2022-11-23 23:47:37+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",masondc886,Earth - most of the time,15207,0,4,4
+487,87,2022-11-23 23:47:33+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",realrockye00,,15207,0,4,4
+488,88,2022-11-23 23:47:30+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GaryMarch18,Michigan,15207,0,4,4
+489,89,2022-11-23 23:47:29+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",JVSmooth42,,15207,0,4,4
+490,90,2022-11-23 23:47:21+00:00,"@BrianDMcBride $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Johnson
+$1,306,130 Marsha Blackburn
+$1,391,548 Josh Hawley
+$3,303,355 Marco Rubio
+$13,647,676 Mitt Romney
+
+Mass shootings are a Republican policy choice.",Style17strings,,5,9,4,4
+491,91,2022-11-23 23:47:09+00:00,"@cenkuygur Boberts now husband groomed her as an underage teen. Wasn’t it Ron Johnson that covered for his best buddy coach while he groomed, raped and assaulted his students? Matt Gaetz “groomed” teen girls and trafficked them over state lines. They’re the “groomers” &amp;know it",Starbuck84,,0,0,4,4
+492,92,2022-11-23 23:47:05+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",GloriaM48510690,,15207,0,4,4
+493,93,2022-11-23 23:46:57+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",kathys0311,"san tan valley, az",15207,0,4,4
+494,94,2022-11-23 23:46:52+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",AVastMachine,"Stanford, CA",15207,0,4,4
+495,95,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",BarreraF_II,"Ciudad de Panamâ, Panamâ",15207,0,4,4
+496,96,2022-11-23 23:46:46+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",Jwalberse,"Virginia Beach, VA",15207,0,4,4
+497,97,2022-11-23 23:46:40+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",HRberkey,"Windsor, CA",15207,0,4,4
+498,98,2022-11-23 23:46:18+00:00,"RT @Style17strings: @KaivanShroff $104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,486 Ron Jo…",postcards4USA,,9,0,4,4
+499,99,2022-11-23 23:45:56+00:00,"RT @Strandjunker: The NRA’s Blood Money:
+
+$104,456 Rand Paul
+$176,274 Ted Cruz
+$226,007 Chuck Grassley
+$1,267,139 Mitch McConnell
+$1,269,48…",docvicki,"Laguna Beach, CA",15207,0,4,4
