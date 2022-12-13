@@ -13,3 +13,6 @@ Original dataset consisted of 1.6 million tweets that were classified into eithe
 
 ### Running Twitter API Notebook
 To run the twitter api notebook, you will need to have your own set of twitter api keys
+
+### Running GPT-3 OpenAI API Notebook
+The fine-tuned GPT-3 model is associated with Kenny's OpenAI account, so you will need to use his API Key for the notebook to run.
